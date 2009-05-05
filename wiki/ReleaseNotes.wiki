@@ -1,5 +1,5 @@
 #labels Featured
-#Release Notes
+Release Notes
 Credits:
 Gigawiz (Coder)
 KkK_Hacker99
