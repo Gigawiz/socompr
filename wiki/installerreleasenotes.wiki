@@ -1,0 +1,17 @@
+#labels Featured
+This is the release notes for the self-installer.
+This will auto install for the people who just cant figure it out.
+
+
+This Package Contains:
+SocomPR
+BakonICE 2.10
+PSPBricker 1.60 (name animations)
+Music PRX (allows you to listen to YOUR music in game)
+Hijack PRX (allows you to take other peoples name on socom and make them animated like yours without them having hacks)
+A Text File named "Copy to UCUS-98645.txt" which contain codes for psp bricker and hijacker..
+
+**Note From The Maker of Hijack:**
+"Codes don't go with this. 
+Enable the PRX and SocomPR Rev 2 and up then when you are in the SocomPR menu, press the R TRIGGER and switch to the 'X' tab. 
+Then there you go! Hijacking. It's pretty much the same as SocomPR Rev 1 except v2 and up has the newer features."
