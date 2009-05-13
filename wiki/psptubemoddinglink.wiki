@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Implementation
+
+= Introduction =
+
+Shows you how to modify psptube scripts and add your own
+
+
+= Details =
+
+Add your content here.  Format your content with:
+http://pspz101.wikispaces.com/file/view/psptube.txt
+
+the soruce used is in the downloads page... 
+But here is the link anyway:
+
+http://socompr.googlecode.com/files/files_sourceCode.zip
