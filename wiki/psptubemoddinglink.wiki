@@ -7,8 +7,6 @@ Shows you how to modify psptube scripts and add your own
 
 
 = Details =
-
-Add your content here.  Format your content with:
 http://pspz101.wikispaces.com/file/view/psptube.txt
 
 the soruce used is in the downloads page... 
