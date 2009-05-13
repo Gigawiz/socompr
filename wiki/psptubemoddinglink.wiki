@@ -1,6 +1,5 @@
-#summary One-sentence summary of this page.
+#summary Teaches you how to mod and add ur own psp tube scripts
 #labels Featured,Phase-Implementation
-
 = Introduction =
 
 Shows you how to modify psptube scripts and add your own
