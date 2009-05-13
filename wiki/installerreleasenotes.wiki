@@ -7,4 +7,4 @@ This Package Contains:
 SocomPR
 more to come with suggestions and more dev experience.
 
-**Currently The Installer Is Un-Operational. As a Result, this is self install ONLY. Meaning that you'll have to install it yourself. I'll Include the source code for all of this once i figure out svn. till then ill keep it as a zip file in the downloads page...
+**Currently The Installer Is Un-Operational. As a Result, this is self install ONLY. Meaning that you'll have to install it yourself. I'll Include the source code for all of this once i figure out svn. till then ill keep it as a zip file in the downloads page...**
