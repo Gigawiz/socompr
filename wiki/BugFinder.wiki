@@ -1,0 +1,14 @@
+#labels Phase-Requirements,Phase-QA,Phase-Support
+#Bugfinders Job
+
+= Introduction =
+
+This Is what the bugfinders job consists of
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Testing the product, in socom ftb1 or 2
+  * reporting feature freezing, not working or not useful
+  * USING THIS PLUGIN!!!!!!!
