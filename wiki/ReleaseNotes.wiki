@@ -2,11 +2,13 @@
 Release Notes
 Credits:
 Gigawiz (Coder)
-KkK_Hacker99
+KkK_Hacker99 (tester)
 
 = Details =
 
-Beta v2 released
-
+Revision 2.2.1 released
+80 Cheats supported
+Separating ftb1 & ftb2 features
+New Bootstrap Included so it loads between ftb1 or 2 by the game id...
 
 Any suggestions email me at KkK_Hacker99@live.com or reply to this thread!
